@@ -46,6 +46,12 @@ Feel free to customize your webpage to include animations, graphics, or any cont
 
 ---
 
+### Extra Point
+If you dont have github id and still want to apply this background just copy the link of your local host you can do that by just simply copying the code from the tab when your were just making the webpage offline and through this you can easily use your background **OFFLINE ALSO**
+and rest follow the following options as stated
+
+---
+
 **Note:** This project is designed for Windows users who want to add a unique touch to their desktop backgrounds using web technology. You can experiment with different web elements and designs to create a background that suits your style and preferences.
 # plankton url
 https://codernotme.github.io/plankton-background.github.io/
